@@ -1,7 +1,6 @@
 {
   "name": "mypig",
   "scripts": {
-    "run": "next",
     "dev": "next",
     "build": "next build",
     "start": "next start"
